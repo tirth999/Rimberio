@@ -40,6 +40,7 @@ Rimberio is a **full-stack e-commerce platform** built with the **MERN stack** t
 - JWT (Authentication)  
 
 ---
+<img width="1440" height="821" alt="Screenshot 2025-09-16 at 9 46 31 PM" src="https://github.com/user-attachments/assets/adbe2f20-6a32-4070-ad2f-2c16837fa790" />
 
 
 
